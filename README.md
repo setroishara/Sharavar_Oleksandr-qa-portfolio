@@ -85,9 +85,7 @@ I am a Quality Assurance Engineer with experience in manual and automated testin
    - Environment setup examples
 
 ## Contact Information
-
-
-## Certifications
+   Linkedin - https://www.linkedin.com/in/oleksandr-sharavar-679221238/
 
 
 ---
